@@ -5,5 +5,5 @@ anggota :
 - Darrell
 - muhamad Sopiana Arginsah (241524016)
 - fauzan
-- rizqi
+- Rizki Nurmahmudi (241524027)
 - praditama
